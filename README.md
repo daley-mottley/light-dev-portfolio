@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to my [Lovable](https://aireadytips.com/lovable) project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e574ddd2-36b1-49ce-940f-3e86cd7f1ca6
+**URL**: [https://light-dev-portfolio.vercel.app](https://light-dev-portfolio.vercel.app/)
 
 ## How can I edit this code?
 
