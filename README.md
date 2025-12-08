@@ -6,4 +6,4 @@
 
 ## How can I deploy this project like this?
 
-Simply, go to [Lovable](https://aireadytips.com/lovable)
+Visit [https://aireadytips.com/p/lovable-how-to-create-your-website](https://aireadytips.com/p/lovable-how-to-create-your-website?utm_source=github&utm_medium=bridal-repo) to learn more.
