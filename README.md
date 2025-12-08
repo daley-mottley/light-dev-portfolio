@@ -1,4 +1,4 @@
-# Welcome to my [Lovable](https://aireadytips.com/lovable) project
+# Welcome to my Lovable project
 
 ## Project info
 
